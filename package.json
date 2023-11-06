@@ -21,6 +21,7 @@
     "jsonwebtoken": "^9.0.0",
     "method-override": "^3.0.0",
     "mongoose": "^7.0.3",
+    "nodemailer": "^6.9.7",
     "validator": "^13.11.0"
   },
   "devDependencies": {
