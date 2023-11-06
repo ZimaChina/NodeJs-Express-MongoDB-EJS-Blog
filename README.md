@@ -1,5 +1,8 @@
 # NodeJs, Express, EJS & MongoDB Blog - CRUD
 
+## A fully functional blog with an index page, post, contaact and admin page. Heres the way you can deploy it on a localhost, up to you if you want to use Cyclic as I did, if so, install with npm the dependencies needed before every deploy, and push em into the remote. It seemed to work better.
+## Lastly, you'll see that I kept some info, its part of my blog, feel free to change it in order to create your own space. cheers
+
 ## You need:
 - NodeJs
 - Database (MongoDB) Free Cluster
